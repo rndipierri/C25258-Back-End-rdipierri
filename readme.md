@@ -21,4 +21,4 @@ node app.js DELETE products/5
 
 ## Tecnologías
 
-Node.js, JavaScript, Fetch API
+Node.js, JavaScript, Fetch API.
