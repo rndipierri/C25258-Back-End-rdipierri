@@ -1,0 +1,13 @@
+{
+  "name": "mi-tienda",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+    "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ricardo Dipierri",
+  "license": "MIT"
+}
